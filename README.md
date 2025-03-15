@@ -1,7 +1,7 @@
-# 5Y 平台自助上课助手（修改）
+# 5Y 平台自助上课助手（修改非原创）
 
 > 不愿再碰。愿世上再无刷课。
-
+> 本脚本非本人原创，仅为修改，原作者请看：GitHub [@wibus-wee](https://github.com/wibus-wee/)
 ## Features
 
 - 自动抓取课程观看章节
@@ -32,9 +32,6 @@
 
 ### Installation
 
-[点击这里立即安装](https://github.com/wibus-dev/monkey-5y/raw/refs/heads/gh-pages/5y-lessons-helper.user.js)
-
-如果有问题的话，自己 clone 下来安装后 pnpm dev 就好了，不太想管为什么，能用就行了
 
 ## Author
 
