@@ -30,8 +30,6 @@
 - 浏览器
 - Tampermonkey
 
-### Installation
-将仓库主页下的upload文件打开，Ctrl+A复制到油猴保存即可使用。
 
 ## Author
 
